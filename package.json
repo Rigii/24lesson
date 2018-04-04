@@ -1,0 +1,22 @@
+{
+  "name": "24lesson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fillter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rigii/Jacob.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rigii/Jacob/issues"
+  },
+  "homepage": "https://github.com/Rigii/Jacob#readme",
+  "devDependencies": {
+    "jquery": "^3.3.1"
+  }
+}
